@@ -4,7 +4,7 @@
 <h1 align="center">Hi , I'm Nagraj Karanth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-I am [Nagraj Karanth(https://ritesh.cloud), a passionate and creative developer from [🇮🇳 ]&nbsp;with a strong interest in DevOps⚙️ and Natural Language Processing🤖.
+I am [Nagraj Karanth a passionate and creative developer from [🇮🇳 ]&nbsp;with a strong interest in DevOps⚙️ and Natural Language Processing🤖.
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DARK-art108&theme=algolia" alt="DARK-art108" /></p>
 
@@ -73,9 +73,6 @@ I am currently working as a Email B2B lead Generation Specialist Ex Drvops Engin
   <a href="https://www.postgresql.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
   </a>
-  <a href="https://www.timescale.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/tsdb.gif" width="120" />
-  </a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
   </a>
