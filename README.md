@@ -10,7 +10,7 @@ I am [Nagraj Karanth a passionate and creative developer from [🇮🇳 ]&nbsp;w
 
 I ❤️ to work with Cloud-Native technologies and Python I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Helm, Terraform, AWS,CI/CD, etc. and proficient with metric collection & monitoring tools such as Grafana,Kibana and Logstash.
 
-I am currently working as a Email B2B lead Generation Specialist Ex Drvops Engineer at Texiio global Pvt.ltd with 1+ years of work experience in Devops
+I am currently working as a Email B2B lead Generation Specialist Ex Devops Engineer at Texiio global Pvt.ltd with 1+ years of work experience in Devops
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DARK-art108&label=Profile%20views&color=0e75b6&style=plastic" alt="DARK-art108" /> </p>
 
